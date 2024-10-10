@@ -13,7 +13,7 @@ let data = {
     },
     xo: {
         header: 'X and O',
-        img: './imgs/xando.png',
+        img: './imgs/xando.PNG',
         link: 'https://m9-gbr.github.io/xando/',
         info: 'A simple X and O web game made wih Javascript that has the ability to play with a friend or with the Computer.'
     },
