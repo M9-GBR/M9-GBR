@@ -8,12 +8,13 @@ let data = {
     lp: {
         header: 'Landing Page',
         img: './imgs/lpsnip.PNG',
+         link: 'https://m9-gbr.github.io/Uncle-Joe-s-Pizza/',
         info: 'A landing page made for a fictional pizza company called Uncle Joe\'s Pizza 🍕'
     },
     xo: {
         header: 'X and O',
         img: './imgs/xando.png',
-        link: 'github.com/M9-GBR/xando',
+        link: 'https://m9-gbr.github.io/xando/',
         info: 'A simple X and O web game made wih Javascript that has the ability to play with a friend or with the Computer.'
     },
     cookie: {
